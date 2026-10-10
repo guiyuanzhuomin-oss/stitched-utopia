@@ -1,0 +1,11 @@
+node_modules/
+work/
+output/
+assets/song.mp3
+assets/type.woff2
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

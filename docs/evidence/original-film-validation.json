@@ -1,0 +1,365 @@
+{
+  "evidence": "Encoded frame inspection, media metadata, deterministic seeking and technical playback. No direct auditory review.",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.64002a",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuvj420p",
+        "level": 42,
+        "color_range": "pc",
+        "color_space": "bt470bg",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1765376,
+        "duration": "114.933333",
+        "bit_rate": "6576755",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "6896",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc62.28.101 libx264"
+        },
+        "side_data_list": [
+          {
+            "side_data_type": "ICC Profile"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 5516544,
+        "duration": "114.928000",
+        "bit_rate": "263552",
+        "nb_frames": "5389",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "114.933333",
+      "size": "98455752",
+      "bit_rate": "6853068",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.12.101"
+      }
+    }
+  },
+  "arcTimes": [
+    0.8,
+    3.8,
+    6.8,
+    10.6,
+    14.3,
+    18.9,
+    23.4,
+    28.8,
+    31.5,
+    36.2,
+    40.8,
+    46.9,
+    50.2,
+    53.1,
+    55.7,
+    59.8,
+    63.5,
+    68.4,
+    74.6,
+    78.8,
+    82.5,
+    85.5,
+    89.9,
+    94.3,
+    95.6,
+    96.9,
+    99.5,
+    101.8,
+    104.7,
+    108.2,
+    110.5,
+    114.6
+  ],
+  "eventTimes": [
+    95.5,
+    95.8,
+    96.1,
+    96.35,
+    97.3,
+    98.58,
+    99.2,
+    100,
+    100.6,
+    101.8,
+    102.7,
+    103.4,
+    104.6,
+    105.6,
+    106.5,
+    107.3,
+    108.4,
+    109.3,
+    110.4,
+    114.6
+  ],
+  "playback": {
+    "time": 0.954159,
+    "paused": false,
+    "duration": 114.928458,
+    "muted": false,
+    "render": {
+      "time": 0.935486,
+      "stage": "net",
+      "lyric": "只因为",
+      "bpm": 122.00240488236496,
+      "bass": 0.003,
+      "revision": 2
+    }
+  },
+  "seekChecks": [
+    {
+      "time": 45.2,
+      "paused": true,
+      "duration": 114.928458,
+      "muted": false,
+      "render": {
+        "time": 45.2,
+        "stage": "blueprint",
+        "lyric": "我会八小时清醒八小时做梦",
+        "bpm": 122.00240488236496,
+        "bass": 0.08524242424241082,
+        "revision": 2
+      }
+    },
+    {
+      "time": 79.6,
+      "paused": true,
+      "duration": 114.928458,
+      "muted": false,
+      "render": {
+        "time": 79.6,
+        "stage": "net-return",
+        "lyric": "只因为",
+        "bpm": 122.00240488236496,
+        "bass": 0.42843030303030627,
+        "revision": 2
+      }
+    },
+    {
+      "time": 96.2,
+      "paused": true,
+      "duration": 114.928458,
+      "muted": false,
+      "render": {
+        "time": 96.2,
+        "stage": "workshop",
+        "lyric": "活下去",
+        "bpm": 122.00240488236496,
+        "bass": 0.45701515151512284,
+        "revision": 2
+      }
+    },
+    {
+      "time": 114.5,
+      "paused": true,
+      "duration": 115.20338,
+      "muted": false,
+      "render": {
+        "time": 114.5,
+        "stage": "arrival",
+        "lyric": null,
+        "bpm": 122.00240488236496,
+        "bass": 0,
+        "revision": 2
+      }
+    },
+    {
+      "time": 20.2,
+      "paused": true,
+      "duration": 115.20338,
+      "muted": false,
+      "render": {
+        "time": 20.2,
+        "stage": "city",
+        "lyric": "我站在地上看了又看",
+        "bpm": 122.00240488236496,
+        "bass": 0.27226060606060765,
+        "revision": 2
+      }
+    }
+  ],
+  "nativePlay": {
+    "time": 0.596798,
+    "paused": false,
+    "muted": false,
+    "width": 1920,
+    "height": 1080,
+    "duration": 114.933333
+  },
+  "nativeSeek": {
+    "time": 107.1,
+    "paused": true,
+    "width": 1920,
+    "height": 1080
+  },
+  "reproducibility": [
+    {
+      "time": 7.2,
+      "sha256": "28a9e2ad604660350cefca4c1a0366149e632a910ca89947de3d09ca2ca308d9"
+    },
+    {
+      "time": 10.6,
+      "sha256": "c582da32148d7ecd0e9ca2a53b477bbc62eceba9415fa9f9fded3a0c7cceb8f9"
+    },
+    {
+      "time": 28.1,
+      "sha256": "b967cf3327e70fb40614041b1eee70d6320834127295a774b3ac963a8a2c3463"
+    },
+    {
+      "time": 45.3,
+      "sha256": "1940d995b857ac7539dd040251721211ac858058344cd00e25a568d2e30269f6"
+    },
+    {
+      "time": 56.7,
+      "sha256": "9d1f125d616a0e3d170973be3c4e5c4dfeed0a4abef927aa882e778bf7c01ea1"
+    },
+    {
+      "time": 82.4,
+      "sha256": "19980f4f480bfd4f758ed4adb3496242c89903de2e181cbd5339492d9efd572e"
+    },
+    {
+      "time": 85.1,
+      "sha256": "fa9309afcceb013d6113c4370b71a2628d983ed8ce364fb05b7730d238bf2221"
+    },
+    {
+      "time": 89.2,
+      "sha256": "a7060ed78fdbcafbee44e72abd63b99e51328ccb1126eb4cb912ba8f8d6be20a"
+    },
+    {
+      "time": 96.6,
+      "sha256": "cfe46741f41365ea7a26e479259aff623edfa7963e924330076c42c569ae331f"
+    },
+    {
+      "time": 100.6,
+      "sha256": "151dbe79e0d9f258ca7e667ddb7445f70c55bea07a48df63c2a8207a9c732a7d"
+    },
+    {
+      "time": 104.7,
+      "sha256": "fd42dbd2e51dcb7fe9b6b156381ef9198337891c1bc70924a873c163f7f6c43c"
+    },
+    {
+      "time": 110.5,
+      "sha256": "00a1f2eaf7eb43d3819e40dcabda37c3acbeeba5e205c5f5b9ccb1d3060b891d"
+    },
+    {
+      "time": 114.5,
+      "sha256": "c46960b19bd3f0cab4a892ed630d249ed2cb6796832c808fc3bb941069bd4f8f"
+    }
+  ],
+  "errors": [],
+  "lyricsRepairs": [
+    {
+      "line": 46,
+      "text": "但别再把小刀带在身上",
+      "original": 84.85,
+      "corrected": 89.665,
+      "basis": "Midpoint of adjacent supplied line timestamps; provisional, not word alignment."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+* text=auto
+*.js text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.html text eol=lf
+*.jpg binary
+*.gif binary
+src/film.js -text
+src/scenes.js -text
+src/score.js -text
+src/player.js -text
+assets/score.json -text
+assets/original.lrc -text

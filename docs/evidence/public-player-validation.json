@@ -1,0 +1,146 @@
+{
+  "evidence": "Public silent/local-audio player functional checks. This does not establish perceptual music review or word alignment.",
+  "errors": [],
+  "seek": [
+    {
+      "time": 18.8,
+      "paused": true,
+      "audioMode": false,
+      "audioTime": 0,
+      "render": {
+        "time": 18.8,
+        "stage": "city",
+        "lyric": "我站在地上看了又看",
+        "bpm": 122.00240488236496,
+        "bass": 0.24589090909090738,
+        "revision": 2
+      }
+    },
+    {
+      "time": 45.2,
+      "paused": true,
+      "audioMode": false,
+      "audioTime": 0,
+      "render": {
+        "time": 45.2,
+        "stage": "blueprint",
+        "lyric": "我会八小时清醒八小时做梦",
+        "bpm": 122.00240488236496,
+        "bass": 0.08524242424241082,
+        "revision": 2
+      }
+    },
+    {
+      "time": 55.7,
+      "paused": true,
+      "audioMode": false,
+      "audioTime": 0,
+      "render": {
+        "time": 55.7,
+        "stage": "street",
+        "lyric": "回头你却早就已经不见",
+        "bpm": 122.00240488236496,
+        "bass": 0.2780287878788238,
+        "revision": 2
+      }
+    },
+    {
+      "time": 96.9,
+      "paused": true,
+      "audioMode": false,
+      "audioTime": 0,
+      "render": {
+        "time": 96.9,
+        "stage": "workshop",
+        "lyric": "活下去",
+        "bpm": 122.00240488236496,
+        "bass": 0.4816848484848451,
+        "revision": 2
+      }
+    },
+    {
+      "time": 101.8,
+      "paused": true,
+      "audioMode": false,
+      "audioTime": 0,
+      "render": {
+        "time": 101.8,
+        "stage": "sound-delivery",
+        "lyric": "（呼唤唱着却没人能听见）",
+        "bpm": 122.00240488236496,
+        "bass": 0.2421454545454544,
+        "revision": 2
+      }
+    },
+    {
+      "time": 104.7,
+      "paused": true,
+      "audioMode": false,
+      "audioTime": 0,
+      "render": {
+        "time": 104.7,
+        "stage": "bridge",
+        "lyric": "活下去",
+        "bpm": 122.00240488236496,
+        "bass": 0.5554772727272475,
+        "revision": 2
+      }
+    },
+    {
+      "time": 110.5,
+      "paused": true,
+      "audioMode": false,
+      "audioTime": 0,
+      "render": {
+        "time": 110.5,
+        "stage": "arrival",
+        "lyric": "（但你歌声我永远都能听见）",
+        "bpm": 122.00240488236496,
+        "bass": 0.19217424242424022,
+        "revision": 2
+      }
+    }
+  ],
+  "reproducibility": [
+    {
+      "time": 7.2,
+      "sha256": "2ca8be68ad5b7494d27e008e6c359de1a73bd9495ebd5c7ebb15c668d277e7f1"
+    },
+    {
+      "time": 96.9,
+      "sha256": "995da2acd1eba71b0e8a1b76e349610eeb7097d60e888eb6487659c096c96f70"
+    },
+    {
+      "time": 110.5,
+      "sha256": "d2e386d3e040746a2261e07c463208daded54196b30d2053a57a4c1ab6cb86e2"
+    }
+  ],
+  "play": {
+    "time": 0.31819999999925497,
+    "paused": false,
+    "audioMode": false,
+    "audioTime": 0,
+    "render": {
+      "time": 0.3075,
+      "stage": "net",
+      "lyric": "只因为",
+      "bpm": 122.00240488236496,
+      "bass": 0.0037217803030303023,
+      "revision": 2
+    }
+  },
+  "localAudio": {
+    "time": 0.619282,
+    "paused": false,
+    "audioMode": true,
+    "audioTime": 0.619282,
+    "render": {
+      "time": 0.613222,
+      "stage": "net",
+      "lyric": "只因为",
+      "bpm": 122.00240488236496,
+      "bass": 0.007935674393939397,
+      "revision": 2
+    }
+  }
+}

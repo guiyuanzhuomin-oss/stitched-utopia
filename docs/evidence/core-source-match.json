@@ -1,0 +1,35 @@
+{
+  "basis": "Exact-byte comparison to delivered V2 core files. Public build and portability scripts are separately adapted.",
+  "files": [
+    {
+      "path": "src/film.js",
+      "sha256": "f196d6eb45e9f409cdf0bb6c08a1576ac3e57fc858565ba7dc309ee23ad45c56",
+      "matchesOriginal": true
+    },
+    {
+      "path": "src/scenes.js",
+      "sha256": "17307f959e2f48b58dd120015d5ad57c711ec81842f94e5ed880b5f7c3c9daab",
+      "matchesOriginal": true
+    },
+    {
+      "path": "src/score.js",
+      "sha256": "032f74a99a8cc21c3aeaa885fc58ddc749842e982d6e98074a6b798da8d1c2ad",
+      "matchesOriginal": true
+    },
+    {
+      "path": "src/player.js",
+      "sha256": "a2e8e81cf28afbd2545d7226b4caf36375715a54712d84f3c3d035e9f3cf2966",
+      "matchesOriginal": true
+    },
+    {
+      "path": "assets/score.json",
+      "sha256": "1a3afa10bd7ecbd22578102b22f3525dd85b4867d9215f8251851e8635e69027",
+      "matchesOriginal": true
+    },
+    {
+      "path": "assets/original.lrc",
+      "sha256": "c46e98eba1495bb6dd6f7de9da9850a9b4f4b7ec4d160d2030223e7c32e11f76",
+      "matchesOriginal": true
+    }
+  ]
+}
